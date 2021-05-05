@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(0,0,0,0.2);
+    font-family: Verdana;
+}
+
+button
+{
+    padding:  10px 25px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.img-list img
+{
+    width: 26%;
+    background: rgba(0, 0, 0, 0.4);
+    border: 5px solid #fff;
+    margin: 5px;
+}
